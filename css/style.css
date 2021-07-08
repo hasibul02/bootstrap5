@@ -1,0 +1,15 @@
+
+.box{
+	min-height:70px;
+	background: red;
+	margin-bottom: 15px;
+}
+
+.container-fluid{
+	background: yellow;
+}
+
+.ami{
+	min-height: 300px;
+	background: green;
+}
